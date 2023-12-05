@@ -1,0 +1,13 @@
+{
+	"name": "proyek",
+	"version": "1.0.0",
+	"description": "coba ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Dzimar",
+	"license": "ISC",
+	"dependencies": {},
+	"keywords": []
+}
